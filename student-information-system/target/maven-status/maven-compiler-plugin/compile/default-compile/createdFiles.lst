@@ -1,0 +1,15 @@
+com/neu/edu/ysy/module/OneBoardMessage.class
+com/neu/edu/ysy/module/Course.class
+com/neu/edu/ysy/module/Lecture.class
+com/neu/edu/ysy/service/StudentService.class
+com/neu/edu/ysy/module/OneLecture.class
+com/neu/edu/ysy/module/Board.class
+com/neu/edu/ysy/module/OperationMessage.class
+com/neu/edu/ysy/MyResource.class
+com/neu/edu/ysy/service/CourseService$CourseMap.class
+com/neu/edu/ysy/service/RegisterService.class
+com/neu/edu/ysy/service/CourseService.class
+com/neu/edu/ysy/service/StudentService$StudentMap.class
+com/neu/edu/ysy/module/Student.class
+com/neu/edu/ysy/module/Registration.class
+com/neu/edu/ysy/module/Program.class
